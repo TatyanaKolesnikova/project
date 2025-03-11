@@ -2,7 +2,7 @@
 
 let number = 5;
 const leftBorderWidth = 1;
-leftBorderWidth = 5;
+console.log(leftBorderWidth);
 
 number = 10;
 console.log(number);
@@ -15,8 +15,3 @@ console.log(obj);
 
 var name = 'Taty';
 console.log(name);
-
-{
-    let result = 50;
-}
-console.log(result);
